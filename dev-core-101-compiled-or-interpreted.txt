@@ -1,0 +1,17 @@
+ dev-core-101-compiled-or-interpreted
+
+ 1.C (compiled)
+
+ 2.Python (interpreted)
+
+ 3.С# (compiled and interpreted)
+
+ 4.C++ (compiled)
+
+ 5.Javascript (interpreted)
+
+ 6.Go (compiled)
+
+ 7.FORTRAN (compiled)
+
+ 8.JAVA (compiled and interpreted)

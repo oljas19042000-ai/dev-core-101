@@ -1,0 +1,17 @@
+# dev-core-101-programming-languages-timeline
+
+## Машинный код (1940-е)
+
+## Ассемблер (Assembly) (конец 1940-х – 1950-е)
+
+## FORTRAN (1957)
+
+## COBOL (1959)
+
+## C (1972)
+
+## C++ (1985)
+
+## Java (1995)
+
+## Python (1991)

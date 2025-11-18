@@ -1,0 +1,9 @@
+dev-core-101-computer-specs
+
+CPU AMD Ryzen 7 5600X
+
+RAM 32GB
+
+SSD 1TB
+
+OC Windows
